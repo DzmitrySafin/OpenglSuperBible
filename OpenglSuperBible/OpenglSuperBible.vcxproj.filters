@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Part01">
+      <UniqueIdentifier>{970a961c-417f-48e7-a936-dbd216ce7ca5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Part01">
+      <UniqueIdentifier>{9a507dc5-5acd-416b-90ef-80ad32e7cd0a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter2Sample1.cpp">
+      <Filter>Source Files\Part01</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter2Sample2.cpp">
+      <Filter>Source Files\Part01</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter3Sample1.cpp">
+      <Filter>Source Files\Part01</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter3Sample2.cpp">
+      <Filter>Source Files\Part01</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter3Sample3.cpp">
+      <Filter>Source Files\Part01</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter3Sample4.cpp">
+      <Filter>Source Files\Part01</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter3Sample5.cpp">
+      <Filter>Source Files\Part01</Filter>
+    </ClCompile>
+    <ClCompile Include="Learn1_4Sample1.cpp">
+      <Filter>Source Files\Part01</Filter>
+    </ClCompile>
+    <ClCompile Include="Learn1_4Sample2.cpp">
+      <Filter>Source Files\Part01</Filter>
+    </ClCompile>
+    <ClCompile Include="Learn1_4Sample3.cpp">
+      <Filter>Source Files\Part01</Filter>
+    </ClCompile>
+    <ClCompile Include="Learn1_4Sample4.cpp">
+      <Filter>Source Files\Part01</Filter>
+    </ClCompile>
+    <ClCompile Include="Learn1_4Sample5.cpp">
+      <Filter>Source Files\Part01</Filter>
+    </ClCompile>
+    <ClCompile Include="Learn1_5Sample1.cpp">
+      <Filter>Source Files\Part01</Filter>
+    </ClCompile>
+    <ClCompile Include="Learn1_5Sample2.cpp">
+      <Filter>Source Files\Part01</Filter>
+    </ClCompile>
+    <ClCompile Include="Learn1_5Sample3.cpp">
+      <Filter>Source Files\Part01</Filter>
+    </ClCompile>
+    <ClCompile Include="Learn1_5Sample4.cpp">
+      <Filter>Source Files\Part01</Filter>
+    </ClCompile>
+    <ClCompile Include="Learn1_5Sample5.cpp">
+      <Filter>Source Files\Part01</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Engine.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter2Sample1.hpp">
+      <Filter>Header Files\Part01</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter2Sample2.hpp">
+      <Filter>Header Files\Part01</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter3Sample1.hpp">
+      <Filter>Header Files\Part01</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter3Sample2.hpp">
+      <Filter>Header Files\Part01</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter3Sample3.hpp">
+      <Filter>Header Files\Part01</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter3Sample4.hpp">
+      <Filter>Header Files\Part01</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter3Sample5.hpp">
+      <Filter>Header Files\Part01</Filter>
+    </ClInclude>
+    <ClInclude Include="Learn1_4Sample1.hpp">
+      <Filter>Header Files\Part01</Filter>
+    </ClInclude>
+    <ClInclude Include="Learn1_4Sample2.hpp">
+      <Filter>Header Files\Part01</Filter>
+    </ClInclude>
+    <ClInclude Include="Learn1_4Sample3.hpp">
+      <Filter>Header Files\Part01</Filter>
+    </ClInclude>
+    <ClInclude Include="Learn1_4Sample4.hpp">
+      <Filter>Header Files\Part01</Filter>
+    </ClInclude>
+    <ClInclude Include="Learn1_4Sample5.hpp">
+      <Filter>Header Files\Part01</Filter>
+    </ClInclude>
+    <ClInclude Include="Learn1_5Sample1.hpp">
+      <Filter>Header Files\Part01</Filter>
+    </ClInclude>
+    <ClInclude Include="Learn1_5Sample2.hpp">
+      <Filter>Header Files\Part01</Filter>
+    </ClInclude>
+    <ClInclude Include="Learn1_5Sample3.hpp">
+      <Filter>Header Files\Part01</Filter>
+    </ClInclude>
+    <ClInclude Include="Learn1_5Sample4.hpp">
+      <Filter>Header Files\Part01</Filter>
+    </ClInclude>
+    <ClInclude Include="Learn1_5Sample5.hpp">
+      <Filter>Header Files\Part01</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
