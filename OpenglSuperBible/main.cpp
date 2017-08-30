@@ -120,6 +120,10 @@ int main(int argc, const char *argv[])
     glfwGetFramebufferSize(window, &width, &height);
     glViewport(0, 0, width, height);
 
+    GLint ext_number = 0;
+    glGetIntegerv(GL_NUM_EXTENSIONS, &ext_number);
+    std::cout << "Number of extensions available: " << ext_number << std::endl;
+
     CEngine *engine = CreateTest(argc > 1 ? argv[1] : "");
     engine->Initialize();
 
