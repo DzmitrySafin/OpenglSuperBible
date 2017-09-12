@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		01409C831F685CE00040458B /* Chapter5Sample1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 01409C811F685CE00040458B /* Chapter5Sample1.cpp */; };
 		01B7CF411F475F8A004670CE /* Engine.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 01B7CF3F1F475F8A004670CE /* Engine.cpp */; };
 		01B7CF441F476265004670CE /* Chapter2Sample1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 01B7CF421F476265004670CE /* Chapter2Sample1.cpp */; };
 		01B7CF471F4771B5004670CE /* Chapter2Sample2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 01B7CF451F4771B5004670CE /* Chapter2Sample2.cpp */; };
@@ -47,6 +48,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		01409C811F685CE00040458B /* Chapter5Sample1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Chapter5Sample1.cpp; sourceTree = "<group>"; };
+		01409C821F685CE00040458B /* Chapter5Sample1.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Chapter5Sample1.hpp; sourceTree = "<group>"; };
 		01B7CF3F1F475F8A004670CE /* Engine.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Engine.cpp; sourceTree = "<group>"; };
 		01B7CF401F475F8A004670CE /* Engine.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Engine.hpp; sourceTree = "<group>"; };
 		01B7CF421F476265004670CE /* Chapter2Sample1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Chapter2Sample1.cpp; sourceTree = "<group>"; };
@@ -175,6 +178,8 @@
 				01B7CF3F1F475F8A004670CE /* Engine.cpp */,
 				01B7CF401F475F8A004670CE /* Engine.hpp */,
 				01C666971F4C9D2400EB9B23 /* Part01 */,
+				01409C811F685CE00040458B /* Chapter5Sample1.cpp */,
+				01409C821F685CE00040458B /* Chapter5Sample1.hpp */,
 			);
 			path = OpenglSuperBible;
 			sourceTree = "<group>";
@@ -265,6 +270,7 @@
 				01B7CF441F476265004670CE /* Chapter2Sample1.cpp in Sources */,
 				01B7CF561F483680004670CE /* Chapter3Sample5.cpp in Sources */,
 				01B7CF591F4857A9004670CE /* Learn1_4Sample1.cpp in Sources */,
+				01409C831F685CE00040458B /* Chapter5Sample1.cpp in Sources */,
 				01B7CF501F479100004670CE /* Chapter3Sample3.cpp in Sources */,
 				01B7CF411F475F8A004670CE /* Engine.cpp in Sources */,
 				01B7CF5F1F485FD7004670CE /* Learn1_4Sample3.cpp in Sources */,
